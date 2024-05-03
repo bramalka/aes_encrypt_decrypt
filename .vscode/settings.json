@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "aes_128.h": "c",
+        "esp_aes.h": "c",
+        "stdint.h": "c"
+    }
+}
