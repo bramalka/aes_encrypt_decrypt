@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/CMakeFiles/bootloader
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/CMakeFiles/bootloader.rule
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/CMakeFiles/bootloader-complete.rule
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/bramalka/Work/ESP_IDF/EncryptDecrypt64byte/aes_encrypt_decrypt/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
